@@ -4,6 +4,8 @@ var lengthButton = document.getElementById("lengthConvButton");
 var tempBox = document.getElementById("temperatureConv");
 var lengthBox = document.getElementById("lengthConv");
 
+// fix later 
+
 tempButton.onclick = function()
 {
     hideBoxes();
